@@ -1,8 +1,13 @@
 <div align="center">
 
-# Shaheryar Popalzai
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+  <img alt="Shaheryar Popalzai" src="assets/logo-black.png" width="460">
+</picture>
 
 **WORDS · SYSTEMS · NOISE**
+
+<img alt="Portrait of Shaheryar Popalzai" src="assets/portrait.png" width="280">
 
 [![Website](https://img.shields.io/badge/Website-shaheryarpopalzai.com-1a1a1a?style=for-the-badge&logo=safari&logoColor=white)](https://shaheryarpopalzai.com/)
 [![X](https://img.shields.io/badge/X-@spopalzai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spopalzai)
