@@ -29,6 +29,18 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 - 🤖 AI's role in journalism (the useful kind, not the hype)
 - 🔐 Previously: brand, comms, and product in cybersecurity
 
+## Toolkit
+
+<div align="center">
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=flat-square&logo=claude&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-1a1a1a?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3klEQVR42u2XMW4CMRQFx96GO%2BQiUcSVOA70OQiRaHIOkBKJK0TATppvtAmCJhu78TTelVd%2BI2/zHwBqIlCX6qt6UE/%2BnZO6jzOXk5z040FdqOuZQh/JrNXFNVsdInwbH43qOda5%2BH3mNjKHcgub2Pjy/ykZG4CkPgPvwAgM1OECZOAlAysgUZ8ErJL6ATwBVhQpWZ9JPVe8%2BptfkVRpSKYxXaALdIEu0AW6QBfIMZ%2B14pKB42RMqkXJOmZgFy9jRYGStWs%2BljcvJtNq9takmjUvpw/q%2BX7Gen64V8%2B/AV4JtdarEwx9AAAAAElFTkSuQmCC)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+
+</div>
+
 ## Projects
 
 | | |
