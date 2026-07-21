@@ -13,9 +13,9 @@
 
 </div>
 
-I spent eleven years inside Pakistan's biggest newsrooms — leading election coverage, training reporters, dragging digital journalism forward by the collar. Then I defected to tech: brand and comms in cybersecurity, co-founding a game-based security awareness product from the inside, then a venture builder running content across a portfolio of startups.
+I spent eleven years inside Pakistan's biggest newsrooms, leading election coverage, training reporters, and dragging digital journalism forward by the collar. Then I defected to tech: brand and comms in cybersecurity, co-founding a game-based security awareness product from the inside, then a venture builder running content across a portfolio of startups.
 
-Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms around the world figure out what's broken and rebuild it — the tooling, the workflows, the AI that's either going to save journalism or finish it off.
+Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms around the world figure out what's broken and rebuild it. The tooling, the workflows, the AI that's either going to save journalism or finish it off.
 
 **I'm betting on save.**
 
@@ -23,16 +23,15 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 
 - 🗞️ Newsroom technology, workflows, and product
 - ✍️ Content strategy across startups and media
-- 🤖 AI's role in journalism — the useful kind, not the hype
+- 🤖 AI's role in journalism (the useful kind, not the hype)
 - 🔐 Previously: brand, comms, and product in cybersecurity
 
 ## Projects
 
 | | |
 |---|---|
-| ⚡ **[Third World Thunder](https://thirdworldthunder.shaheryarpopalzai.com/)** | Chronicling extreme metal in Pakistan — the bands, scenes and stories the mainstream press left off the page. |
-| 🎧 **[Sound & Fury](https://fury.shaheryarpopalzai.com/)** | A daily listening diary read by machine — each night it turns a day of Spotify history into sequenced, annotated entries on mood and theme. |
-| 🔮 **Untitled** | Another one brewing in the background. Details when it's good and ready — not before. |
+| ⚡ **[Third World Thunder](https://thirdworldthunder.shaheryarpopalzai.com/)** | Chronicling extreme metal in Pakistan: the bands, scenes and stories the mainstream press left off the page. |
+| 🎧 **[Sound & Fury](https://fury.shaheryarpopalzai.com/)** | A daily listening diary read by machine. Each night it turns a day of Spotify history into sequenced, annotated entries on mood and theme. |
 
 ## Stats
 
@@ -46,16 +45,6 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spopalzai&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
   <img alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spopalzai&layout=compact&hide_border=true&bg_color=00000000">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=spopalzai&theme=github-dark-blue&hide_border=true&background=00000000">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=spopalzai&hide_border=true&background=00000000">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=spopalzai&theme=github-compact&hide_border=true&bg_color=00000000">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=spopalzai&theme=minimal&hide_border=true&bg_color=00000000">
 </picture>
 
 </div>
