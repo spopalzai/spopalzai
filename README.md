@@ -36,6 +36,12 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 | ⚡ **[Third World Thunder](https://thirdworldthunder.shaheryarpopalzai.com/)** | Chronicling extreme metal in Pakistan: the bands, scenes and stories the mainstream press left off the page. |
 | 🎧 **[Sound & Fury](https://fury.shaheryarpopalzai.com/)** | A daily listening diary read by machine. Each night it turns a day of Spotify history into sequenced, annotated entries on mood and theme. |
 
+## Stats
+
+<!-- STATS:START -->
+_First run pending. The update-stats workflow fills this in nightly._
+<!-- STATS:END -->
+
 ## Off the clock
 
 Extreme metal, horror literature, and a vinyl collection that has comprehensively defeated my shelving.
