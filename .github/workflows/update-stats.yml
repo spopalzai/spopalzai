@@ -27,7 +27,8 @@ jobs:
           if ! git diff --quiet README.md; then
             git add README.md
             git commit -m "Update profile stats"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           else
             echo "No changes"
           fi
