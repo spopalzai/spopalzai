@@ -24,8 +24,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet README.md; then
-            git add README.md
+          git add README.md assets/stats
+          if ! git diff --cached --quiet; then
             git commit -m "Update profile stats"
             git pull --rebase origin main
             git push origin HEAD:main
