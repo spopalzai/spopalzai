@@ -51,7 +51,7 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 ## Stats
 
 <!-- STATS:START -->
-**47 repositories** (3 public · 44 private) · **13 commits in the last 24 months**
+**47 repositories** (3 public · 44 private) · **405 commits in the last 24 months**
 
 ```text
 Aug 2024                       0
@@ -64,20 +64,20 @@ Feb 2025                       0
 Mar 2025                       0
 Apr 2025                       0
 May 2025                       0
-Jun 2025                       0
+Jun 2025  █                    3
 Jul 2025                       0
 Aug 2025                       0
-Sep 2025                       0
+Sep 2025  █                    1
 Oct 2025                       0
-Nov 2025                       0
-Dec 2025                       0
+Nov 2025  ████                 50
+Dec 2025  ███                  41
 Jan 2026                       0
 Feb 2026                       0
-Mar 2026                       0
+Mar 2026  █                    1
 Apr 2026                       0
-May 2026                       0
-Jun 2026                       0
-Jul 2026  ████████████████████ 13
+May 2026  █                    12
+Jun 2026  ██                   22
+Jul 2026  ████████████████████ 275
 ```
 
 **Languages** (all repos, including private)
