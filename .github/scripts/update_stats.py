@@ -95,27 +95,52 @@ def month_ranges(n):
     return ranges
 
 
-def fetch_commits_by_month():
+def fetch_commits_by_month(repos):
+    """Count commits on each repo's default branch, bucketed by month.
+
+    Walks real commit history instead of the contributions API, which
+    only counts commits whose author email is linked to the account.
+    """
     ranges = month_ranges(MONTHS_BACK)
-    # contributionsCollection spans at most a year per call, so alias one
-    # call per month in a single query.
-    parts = []
-    for i, (s, e) in enumerate(ranges):
-        parts.append(
-            f'm{i}: contributionsCollection(from: "{s.isoformat()}", '
-            f'to: "{e.isoformat()}") {{ totalCommitContributions }}'
-        )
-    query = (
-        'query($login: String!) { user(login: $login) { '
-        + " ".join(parts)
-        + " } }"
-    )
-    data = gql(query, {"login": LOGIN})
-    user = data["user"]
-    return [
-        (s, user[f"m{i}"]["totalCommitContributions"])
-        for i, (s, e) in enumerate(ranges)
-    ]
+    since = ranges[0][0].isoformat()
+    counts = {s.strftime("%Y-%m"): 0 for s, _ in ranges}
+    query = """
+    query($login: String!, $name: String!, $since: GitTimestamp!, $cursor: String) {
+      repository(owner: $login, name: $name) {
+        defaultBranchRef {
+          target {
+            ... on Commit {
+              history(since: $since, first: 100, after: $cursor) {
+                pageInfo { hasNextPage endCursor }
+                nodes { committedDate }
+              }
+            }
+          }
+        }
+      }
+    }
+    """
+    for r in repos:
+        if r["isFork"]:
+            continue
+        cursor = None
+        while True:
+            data = gql(query, {
+                "login": LOGIN, "name": r["name"],
+                "since": since, "cursor": cursor,
+            })
+            ref = data["repository"]["defaultBranchRef"]
+            if not ref:
+                break
+            history = ref["target"]["history"]
+            for node in history["nodes"]:
+                key = node["committedDate"][:7]
+                if key in counts:
+                    counts[key] += 1
+            if not history["pageInfo"]["hasNextPage"]:
+                break
+            cursor = history["pageInfo"]["endCursor"]
+    return [(s, counts[s.strftime("%Y-%m")]) for s, _ in ranges]
 
 
 def bar(value, max_value, width=BAR_WIDTH):
@@ -185,7 +210,7 @@ def render(total, repos, monthly):
 
 def main():
     total, repos = fetch_repos()
-    monthly = fetch_commits_by_month()
+    monthly = fetch_commits_by_month(repos)
     block = render(total, repos, monthly)
 
     with open(README, encoding="utf-8") as f:
