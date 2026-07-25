@@ -51,7 +51,7 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 ## Stats
 
 <!-- STATS:START -->
-**47 repositories** (3 public · 44 private) · **407 commits since June 2025**
+**48 repositories** (3 public · 45 private) · **421 commits since June 2025**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats/commits-dark.svg">
