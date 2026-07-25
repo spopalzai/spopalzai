@@ -51,47 +51,22 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 ## Stats
 
 <!-- STATS:START -->
-**47 repositories** (3 public · 44 private) · **405 commits in the last 24 months**
+**47 repositories** (3 public · 44 private) · **407 commits since June 2025**
 
-```text
-Aug 2024                       0
-Sep 2024                       0
-Oct 2024                       0
-Nov 2024                       0
-Dec 2024                       0
-Jan 2025                       0
-Feb 2025                       0
-Mar 2025                       0
-Apr 2025                       0
-May 2025                       0
-Jun 2025  █                    3
-Jul 2025                       0
-Aug 2025                       0
-Sep 2025  █                    1
-Oct 2025                       0
-Nov 2025  ████                 50
-Dec 2025  ███                  41
-Jan 2026                       0
-Feb 2026                       0
-Mar 2026  █                    1
-Apr 2026                       0
-May 2026  █                    12
-Jun 2026  ██                   22
-Jul 2026  ████████████████████ 275
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/commits-dark.svg">
+  <img alt="Commits per month" src="assets/stats/commits-light.svg">
+</picture>
 
-**Languages** (all repos, including private)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/overview-dark.svg">
+  <img alt="Repository overview" src="assets/stats/overview-light.svg">
+</picture>
 
-```text
-HTML          ████████████░░░░░░░░  61.3%
-JavaScript    █████░░░░░░░░░░░░░░░  27.3%
-Python        █░░░░░░░░░░░░░░░░░░░   3.8%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.4%
-TypeScript    ░░░░░░░░░░░░░░░░░░░░   1.3%
-Svelte        ░░░░░░░░░░░░░░░░░░░░   1.3%
-PHP           ░░░░░░░░░░░░░░░░░░░░   1.2%
-Shell         ░░░░░░░░░░░░░░░░░░░░   0.4%
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/languages-dark.svg">
+  <img alt="Language share across all repos" src="assets/stats/languages-light.svg">
+</picture>
 
 <sub>Updated automatically · 2026-07-25</sub>
 <!-- STATS:END -->
