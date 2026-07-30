@@ -51,7 +51,7 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 ## Stats
 
 <!-- STATS:START -->
-**48 repositories** (3 public · 45 private) · **434 commits since June 2025**
+**48 repositories** (3 public · 45 private) · **435 commits since June 2025**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats/commits-dark.svg">
@@ -68,7 +68,7 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
   <img alt="Language share across all repos" src="assets/stats/languages-light.svg">
 </picture>
 
-<sub>Updated automatically · 2026-07-29</sub>
+<sub>Updated automatically · 2026-07-30</sub>
 <!-- STATS:END -->
 
 ## Off the clock
