@@ -33,7 +33,15 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 
 <div align="center">
 
+<sub><b>AGENTS & DEV</b></sub>
+
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
+![Droid](https://img.shields.io/badge/Droid-1a1a1a?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdElEQVR42u2XW4iVVRTHf%2BtcJhukNOshimwgRSKiC/RQdIEcykKmSDMRepDI6CFCIuqhXoygsogwyIIiEKNClEwKrKAGjYzowmQkZCnUQ0P3sjwz5/x6aH3weZhz64I9uOFjn7P3Xmv/93/d9g61wlFsR3XzYwD%2BDoBo64vf1ZKu%2BK8AREQ0AbMv5I2IqYiYbpv7VwFERDTVW4Dt6vyIaEXEdES01FF1PfCKujwiWslK76ZWenx1NdRz1Wn/ak/l%2BCr1TfVb9fecez7ljutDd6UfANUE%2Bpz6ubpT/U3dqr6UII5Xb0uAl5cOVsuvo/5aD/NUgKZ6MnAZcB3wHbAPOBwRN5WYvDhpvyaT266IaORcDWjNtEknAKZTFcqvBfYAExGhuhVYoA4DDeAUYBnwCHAQuAc4Vd0CbIqILzpm3BloiewfUl9Vb1ZfVJcUp1EvVH9RL8mxB9QD6omlNVep3%2BT4ytRb7ekDqWCW%2BrVHtqfVRSXgH6h3p7MdUNe2HewMdTxld860eScnrCbaLeqn6mL1vtxkUn1GnafeqG5TV6u7Sxtfob6sNtU/1CfVkZLuI/aLGWxTjYgpdQWwLiIWFqwAY8Aa4CRgHLgaOAF4DPgVuBOYC3wMTKau5YWp%2B/WBAuWwuksdm0FmTP1ZbWXoTajPJhvnl9ZtVwsA9UHyQD2FVqib087nqWvVt9Xd2Zs5YUIth2Tkt1p9I%2BWrAyWiVHRa%2BsFn6g/ql%2Br96iJ1Y4IYV29VP1L3qevVkZQfVn9SR/P/UL9OWFNvT8c7pL6lLs2EgnqRelA9S31fXZzjd2S2bGQIr0szPZ7zPcOwSLuz1e%2BT4idK1A4luHF1U45tVF8vrZmtPtoWwts61Z1uTjiap5vMMCxoXaJOqReknZeqh9Uz1aFc82DWhoUpe2nfiajNB4bVZVl03lE3qHuzAkayMUv9RN1Q8psP1fn9VN1u1bDWpmBOnswitHL8HHV/huWI%2BrC6o5SS690qYrdq2EqfqOSF5McMzwYwT10JXA/MATYDdwGvAQuAG0rXs%2BY/vZBUS7Z7LxloqHvUe9W5pfuC6o40S6VT7PdKxd2uZFcCZwN7gXcj4pAaedLTgVXACxHxVbJnT8WDvIzyrldmr15QXJ4bSOeAT7NK6drdajthtM311WoDvgu6KbYfyo89zf53AP4ER8q1bS4REx4AAAAASUVORK5CYII%3D)
+
+<sub><b>WORK</b></sub>
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
 
