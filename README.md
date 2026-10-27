@@ -48,29 +48,6 @@ Turns out I couldn't stay away. Now I'm back where I started, helping newsrooms 
 | ⚡ **[Third World Thunder](https://thirdworldthunder.shaheryarpopalzai.com/)** | Chronicling extreme metal in Pakistan: the bands, scenes and stories the mainstream press left off the page. |
 | 🎧 **[Sound & Fury](https://fury.shaheryarpopalzai.com/)** | A daily listening diary read by machine. Each night it turns a day of Spotify history into sequenced, annotated entries on mood and theme. |
 
-## Stats
-
-<!-- STATS:START -->
-**49 repositories** (3 public · 46 private) · **697 commits since June 2025**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/commits-dark.svg">
-  <img alt="Commits per month" src="assets/stats/commits-light.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/overview-dark.svg">
-  <img alt="Repository overview" src="assets/stats/overview-light.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/languages-dark.svg">
-  <img alt="Language share across all repos" src="assets/stats/languages-light.svg">
-</picture>
-
-<sub>Updated automatically · 2026-08-24</sub>
-<!-- STATS:END -->
-
 ## Off the clock
 
 Extreme metal, horror literature, and a vinyl collection that has comprehensively defeated my shelving.
